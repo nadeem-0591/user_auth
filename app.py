@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, session, redirect, flash
+from flask import Flask, render_template, request, session, redirect
 from datetime import datetime, timedelta
 from pymongo import MongoClient
 
